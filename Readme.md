@@ -1,0 +1,1 @@
+this repo is only used for the BeerMP auto-updater
